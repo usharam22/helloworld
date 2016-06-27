@@ -1,2 +1,2 @@
 # helloworld
-my first repository in the shared
+my first repository created in the GIT hub
